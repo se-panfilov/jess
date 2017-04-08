@@ -1,0 +1,17 @@
+{
+  "name": "jess",
+  "private": false,
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {},
+  "repository": "git@github.com:se-panfilov/jess.git",
+  "bugs": {
+    "url": "https://github.com/se-panfilov/jess/issues"
+  },
+  "keywords": [
+  ],
+  "author": "S.Panfilov <se-panfilov@ya.ru>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
